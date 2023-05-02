@@ -47,7 +47,7 @@ const Header = () => {
                 variant={'ghost'}
                 colorScheme={'purple'}
               >
-                <Link to={'/'}>Home</Link>
+                <Link to={'/home'}>Home</Link>
               </Button>
 
               <Button
